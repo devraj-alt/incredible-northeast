@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+
+body {
+  background-color: #f9fafb;
+}
+
+.App {
+  text-align: center;
+}
+
+.heading {
+  font-family: Rampart One;
+  font-size: 3rem;
+  color: #047857;
+}
+
+.description {
+  font-family: "Lucida Sans";
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+.btn {
+  background-color: #047857;
+  color: #f9fafb;
+  border-radius: 0.3rem;
+  margin-right: 10px;
+  margin: 0.5rem 0.5rem;
+}
+
+.name {
+  font-family: "Lucida Sans";
+  display: inline;
+  padding-right: 1rem;
+  font-weight: bold;
+}
+
+.rating {
+  font-family: "Lucida Sans";
+  display: inline;
+  padding-left: 1rem;
+  font-weight: bold;
+}
+
+.box {
+  border: 1px solid #047857;
+  margin: 1rem auto;
+  border-radius: 0.5rem;
+  max-width: 50%;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ecfdf5;
+  padding: 1rem;
+}
+
+.button-wrapper {
+  margin-bottom: 3rem;
+}
