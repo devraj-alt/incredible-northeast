@@ -47,12 +47,12 @@ body {
   margin: 1rem auto;
   border-radius: 0.5rem;
   max-width: 50%;
-  height: 50px;
+  height: 120px;
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   background-color: #ecfdf5;
-  padding: 1rem;
 }
 
 .button-wrapper {
